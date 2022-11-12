@@ -2,7 +2,7 @@ package ch.zhaw.checkout.checkout.model;
 
 import java.util.List;
 
-import ch.zhaw.checkout.checkout.interfaces.Voucher;
+import ch.zhaw.checkout.checkout.interfaces.Voucher; 
 
 public class FiveBucksVoucher implements Voucher {
 
